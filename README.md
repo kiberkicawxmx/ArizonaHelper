@@ -1,0 +1,2 @@
+# ArizonaHelper
+Тема для WordPress
